@@ -98,9 +98,7 @@ Formula:
 ---
 
 ## 📁 Dataset
-- **SOUL Dataset**:
-  - OCTA images related to BRVO.
-  - Includes images of 53 patients across multiple treatment stages.![Soul Octa Dataset](https://pubmed.ncbi.nlm.nih.gov/39095383/)
+We are using the [SOUL Dataset](https://pubmed.ncbi.nlm.nih.gov/39095383/), which contains OCTA images related to BRVO. This dataset includes images of 53 patients across multiple treatment stages, collected from the Affiliated Hospital of Shandong Second Medical University (2020-2021).
 
 ---
 
